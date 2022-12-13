@@ -10,4 +10,4 @@ En effet le code ne nous donne pas beaucoup d'indication à part l'inclusion d'u
 Comme ce fichier est inaccessible et qu'il est précisé que le code source est inutile. On essaye les combinaisons classiques. A savoir 'admin' / 'password'.
 On valide le challenge avec cette combinaison.
 
-![auth50 images](auth50.png "auth50")
+![auth50 images](auth50.PNG "auth50")
