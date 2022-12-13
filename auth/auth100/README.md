@@ -23,5 +23,5 @@ echo $sum;
 ````SHELL
 864
 ````
-On retourne sur le site et on entre la combinaison **'Admin' / '864'**
+On retourne sur le site et on entre la combinaison **'username' / '864'**
 ![auth100 image](auth100.PNG "auth100")
