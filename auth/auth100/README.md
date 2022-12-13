@@ -24,4 +24,4 @@ echo $sum;
 864
 ````
 On retourne sur le site et on entre la combinaison **'Admin' / '864'**
-[auth100](auth100.PNG)
+![auth100 image](auth100.PNG "auth100")
