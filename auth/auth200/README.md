@@ -1,4 +1,4 @@
-# Auth100
+# Auth200
 
 Dans ce troisième challenge, on arrive sur la même page que lors du précédent challenge.
 
