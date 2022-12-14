@@ -30,3 +30,25 @@ Module Epitech Web-Secu CTF
 ## XSS
 - [x] [Whatsup](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xss/whatsup)
 - [x] [Whatsup2](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xss/whatsup2)
+
+## Obfuscation
+- [x] [OBF100](https://github.com/georgeslegentil/web-secu-writeup/tree/main/obfuscation/OBF100)
+- [ ] [SCRIPT_KIDDING](https://github.com/georgeslegentil/web-secu-writeup/tree/main/obfuscation/SCRIPT_KIDDING)
+
+## XXE
+- [ ] [xxe1](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xxe/xxe1)
+- [ ] [xxe2](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xxe/xxe2)
+
+## Graphql
+- [x] [Confession](https://github.com/georgeslegentil/web-secu-writeup/tree/main/graphql/confessions)
+
+## SSTI
+- [x] [ssti1](https://github.com/georgeslegentil/web-secu-writeup/tree/main/ssti/ssti1)
+- [x] [ssti2](https://github.com/georgeslegentil/web-secu-writeup/tree/main/ssti/ssti2)
+- [x] [ssti3](https://github.com/georgeslegentil/web-secu-writeup/tree/main/ssti/ssti3)
+- [ ] [ssti4](https://github.com/georgeslegentil/web-secu-writeup/tree/main/ssti/ssti4)
+
+## SSRF
+- [x] [ssrf](https://github.com/georgeslegentil/web-secu-writeup/tree/main/ssrf)
+
+## open field
