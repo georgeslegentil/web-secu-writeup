@@ -29,4 +29,4 @@ Module Epitech Web-Secu CTF
 - [x] [Whatsup](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xss/whatsup)
 - [x] [Whatsup2](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xss/whatsup2)
 
-![category image](images/Category Breakdown.png "category breakdown")
+![category image](images/break.png "category breakdown")
