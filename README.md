@@ -1,6 +1,8 @@
 # web-secu-writeup
 Module Epitech Web-Secu CTF
 
+![shiled coverage](https://img.shields.io/badge/Challenges-70%25-brightgreen "coverage") 
+
 ## Javascript
 - [x] [b64js](https://github.com/georgeslegentil/web-secu-writeup/tree/main/js/b64js)
 - [X] [JS200](https://github.com/georgeslegentil/web-secu-writeup/tree/main/js/JS200)
