@@ -19,7 +19,7 @@ Module Epitech Web-Secu CTF
 - [X] [remote](https://github.com/georgeslegentil/web-secu-writeup/tree/main/lfi/remote)
 
 ## Sqli
-- [ ] [potionseller](https://github.com/georgeslegentil/web-secu-writeup/tree/main/sqli/potionseller)
+- [x] [potionseller](https://github.com/georgeslegentil/web-secu-writeup/tree/main/sqli/potionseller)
 - [ ] [potionseller2](https://github.com/georgeslegentil/web-secu-writeup/tree/main/sqli/potionseller2)
 
 ## Jwt
