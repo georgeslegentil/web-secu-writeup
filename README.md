@@ -36,7 +36,7 @@ Module Epitech Web-Secu CTF
 - [ ] [SCRIPT_KIDDING](https://github.com/georgeslegentil/web-secu-writeup/tree/main/obfuscation/SCRIPT_KIDDING)
 
 ## XXE
-- [ ] [xxe1](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xxe/xxe1)
+- [x] [xxe1](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xxe/xxe1)
 - [ ] [xxe2](https://github.com/georgeslegentil/web-secu-writeup/tree/main/xxe/xxe2)
 
 ## Graphql
@@ -52,3 +52,4 @@ Module Epitech Web-Secu CTF
 - [x] [ssrf](https://github.com/georgeslegentil/web-secu-writeup/tree/main/ssrf)
 
 ## open field
+- [x] Wordstress
