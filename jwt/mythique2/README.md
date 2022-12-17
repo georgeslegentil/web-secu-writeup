@@ -47,4 +47,11 @@ echo -n "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzEyNzg2NDMsImRhdGEiOn
 ```SHELL
 a1b9b29b9ba430e866da9a6758c0541894bc2fc711f433faa79285aae009bc71
 ```
-```
+On termine par reconvertir la signature afin qu’elle corresponde au format des JWT :
+avec cyberchef : from hex to base 64:
+
+**obmym5ukMOhm2ppnWMBUGJS8L8cR9DP6p5KFquAJvHE**
+
+On complète le token
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzEyNzg2NDMsImRhdGEiOnsibmFtZSI6IlpvYiDDgCBQb2lsIiwiaXNBZG1pbiI6dHJ1ZX0sImlhdCI6MTY3MTI3NTA0M30.obmym5ukMOhm2ppnWMBUGJS8L8cR9DP6p5KFquAJvHE
