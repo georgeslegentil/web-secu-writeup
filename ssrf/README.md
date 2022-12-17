@@ -37,4 +37,4 @@ Le serveur nous répond qu'il manque un cookie
 
 On le rajoute à la suite de notre requête en modifiant le protocole HTTP vers 1.1 pour que notre requête soit envoyé en claire.
 
-![image info](Capture d’écran 2022-12-17 à 13.11.08.png)
+![image info](burp.png)
