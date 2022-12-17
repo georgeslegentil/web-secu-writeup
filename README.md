@@ -1,5 +1,5 @@
 # web-secu-writeup
-Module Epitech Web-Secu CTF
+Module Epitech Web-Secu CTF done with [Antonin Alves](https://github.com/antonin-alves)
 
 ![shiled coverage](https://img.shields.io/badge/Challenges-81%25-green "coverage") 
 
