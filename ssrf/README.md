@@ -8,7 +8,7 @@ https://ssrf1.secu-web.blackfoot.dev/secret
 ```
 
 
-```JSON
+```
 {
 ok: false,
 message: "You have to come from 127.0.0.1 not 172.21.0.8 :)",
